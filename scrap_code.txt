@@ -1,0 +1,4 @@
+
+      I am experienced in Mobile App Development since 8 years &  I have a a passion for pushing mobile technologies to the limit and have experience with a wide variety of Android development frameworks like<span class="text-primary"> React Native, Android Studio, Cordova, Ionic etc.</span>
+		  <br>I have worked on various hardware integration with mobile apps that includes <span class="text-primary">Health Care devices, Telecom Scanners , Light Meter, Printers etc.</span>
+          <br>As an engineer I challenge and enjoyed being challenged, and I have a reputation for producing the best product experience, irrespective of its category..</p>
